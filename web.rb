@@ -9,3 +9,6 @@ end
 get '/Nefo' do
   "Mitsuhide Nefo"
 end
+get '/yono' do
+  "yono"
+end
