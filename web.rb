@@ -6,3 +6,6 @@ end
 get '/Tomohiro' do
   "Tomohiro, TAIRA"
 end
+get '/Nefo' do
+  "Mitsuhide Nefo"
+end
